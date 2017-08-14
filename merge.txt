@@ -1,2 +1,5 @@
 this is an example of merge file 
+<<<<<<< HEAD
 
+=======
+>>>>>>> merge1
