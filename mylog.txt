@@ -1,0 +1,54 @@
+* merge file
+*   Merge branch 'master' of https://github.com/ujwal1991/Contribute
+|\  
+| *   Merge branch 'master' of https://github.com/ujwal1991/Contribute
+| |\  
+| | *   Merge branch 'master' of https://github.com/ujwal1991/Contribute
+| | |\  
+| | | *   Merge branch 'master' of https://github.com/ujwal1991/Contribute
+| | | |\  
+| | | * | changes
+| * | | | hello
+| * | | | whats up
+* | | | |   Merge branch 'feature' of https://github.com/ujwal1991/Contribute into feature
+|\ \ \ \ \  
+| |/ / / /  
+| * | | | feature.txt
+| | |_|/  
+| |/| |   
+| * | |   Merge branch 'Monisha'
+| |\ \ \  
+| * | | | changes
+| * | | | test
+* | | | | checkthisout.txt
+* | | | | feature.txt
+* | | | | feature.txt
+| |_|/ /  
+|/| | |   
+* | | | changes
+| |_|/  
+|/| |   
+* | |   Merge remote-tracking branch 'origin/savi' into Monisha
+|\ \ \  
+| |_|/  
+|/| |   
+| * | hello
+| * | whats up
+* | | example
+| |/  
+|/|   
+* |   Merge branch 'boring'
+|\ \  
+| * \   Merge branch 'shit' of https://github.com/ujwal1991/Contribute into boring
+| |\ \  
+| | |/  
+| | * savi
+| * | oh
+* | | whateverinbranch
+| |/  
+|/|   
+* | whatever
+|/  
+* Create IMPORTANTFILE
+* ok
+* Initial commit
